@@ -1,4 +1,16 @@
-#Test
+# Sriram Natarajan
+# Period 3
+# AP Computer Science Principles
+# 1. Initialize game window and objects (player, aliens, bullets)
+# 2. Set up game loop
+# 3. Check player input for movement and shooting
+# 4. Move aliens, player, and bullets
+# 5. Check for collisions between objects
+# 6. Update scores and lives
+# 7. Repeat loop until player loses or defeats all aliens
+# 8. Display game over message or victory screen.
+
+
 import pygame
 from pygame.locals import *
 from pygame.sprite import *
